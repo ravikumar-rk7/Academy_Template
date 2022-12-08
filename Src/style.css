@@ -4,6 +4,7 @@ body{
     background-repeat: no-repeat;
     background-size:auto;
     background-color:lightskyblue;
+    width: 100px;
 }
 .logo h1:hover{
     color: red;
