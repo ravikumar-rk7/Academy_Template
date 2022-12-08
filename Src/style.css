@@ -2,7 +2,6 @@ body{
     background-image: url(../images/student_PNG62550.webp);
     background-attachment: fixed-center;
     background-repeat: no-repeat;
-    background-position: cover;
     background-color:lightskyblue;
 }
 .logo h1:hover{
@@ -25,7 +24,7 @@ div span{
 .text-2 span{
     font-size: 25px;
     justify-content: center;
-    align-items: center;
+    background-repeat: no-repeat;
 }
 .icons a{
     display: flex;
