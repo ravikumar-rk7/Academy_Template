@@ -1,6 +1,6 @@
 body{
     background-image: url(../images/student_PNG62550.webp);
-    background-position: fixed;
+    background-attachment: fixed;
     background-repeat: no-repeat;
     background-color:lightskyblue;
 }
