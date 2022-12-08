@@ -1,6 +1,6 @@
 body{
     background-image: url(../images/student_PNG62550.webp);
-    background-attachment: fixed;
+    background-attachment: fixed-center;
     background-repeat: no-repeat;
     background-position: cover;
     background-color:lightskyblue;
@@ -41,15 +41,15 @@ nav{
     background-color: rgba(0,0,0,0.3);  /* Set the transparency to 0.3 */
     overflow: hidden;
     color: black;
-    height: 80%;
+    height: 50%;
 }
 body section{
     padding: 5px;
     margin-top: 230px;
 }
 .menu li{
-    margin-left: 60px;
-    font-size: 30px;
+    margin-left: 30px;
+    font-size: 25px;
 }
 .button a{
     margin-left: 130%;
